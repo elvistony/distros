@@ -60,3 +60,10 @@ Visit (https://www.linuxmint.com/download_all.php).
 ```
 - Elvis Tony, 2018-10-26
 
+####  The most popular and easy Linux distributions of all time.
+
+```
+The Linux Mint desktop is the best desktop around.It looks elegant.
+```
+- Radhika R. Sharma, 2018-10-27
+
